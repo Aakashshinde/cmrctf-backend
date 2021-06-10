@@ -1,11 +1,10 @@
 {
   "name": "cyber",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "server": "node server.js"
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
@@ -24,5 +23,14 @@
     "mongoose": "^5.12.7",
     "nodemon": "^2.0.7",
     "react-helmet": "^6.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aakashshinde/cmrctf-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Aakashshinde/cmrctf-backend/issues"
+  },
+  "homepage": "https://github.com/Aakashshinde/cmrctf-backend#readme",
+  "description": ""
 }
